@@ -1,0 +1,12 @@
+# Environment variables and local virtual environments
+.env
+.env.*
+!.env.example
+.venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated checkpoints
+.ipynb_checkpoints/
